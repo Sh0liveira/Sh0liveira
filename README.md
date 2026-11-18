@@ -42,8 +42,8 @@ Estudante de **Ciência da Computação** no Instituto Mauá de Tecnologia (conc
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
 | **[WoodAI Studio](https://github.com/Sh0liveira/mercenary-ai-render)** — Criador & Eng. de IA | Agente autônomo híbrido para marcenaria e design de interiores que limpa plantas baixas 2D via OpenCV, extrai semântica com Gemini e renderiza em 3D fotorrealista (ControlNet + Leonardo Kino XL) com loop de autoavaliação (QA Judge) | Python · OpenCV · Google Gemini · Leonardo.ai (ControlNet) · Streamlit |
-| **[SC-HydraSense / Aquality](https://github.com/Sh0liveira/repo-aquality)** — Eng. de IA & UI/UX (*Hospital São Camilo / IMT*) | Plataforma de monitoramento de hidratação para atletas. Atuação no container de IA (Gemini + Whisper), Design System atômico e motor de relatórios PDF | FastAPI · Agno · Google Gemini · Whisper · ChromaDB · React · TypeScript |
-| **[Website Rokuzen](https://github.com/Sh0liveira/repo-rokuzen)** | Sistema web fullstack para gestão operacional e agendamento de atendimentos, com múltiplos painéis administrativos e autenticação | Node.js · Express · MySQL · JavaScript · REST API |
+| **[SC-HydraSense / Aquality](https://github.com/gacsilva2005/aquality)** — Eng. de IA & UI/UX (*Hospital São Camilo / IMT*) | Plataforma de monitoramento de hidratação para atletas. Atuação no container de IA (Gemini + Whisper), Design System atômico e motor de relatórios PDF | FastAPI · Agno · Google Gemini · Whisper · ChromaDB · React · TypeScript |
+| **[Website Rokuzen](https://github.com/IsaacFelipe/Website-Rokuzen)** | Sistema web fullstack para gestão operacional e agendamento de atendimentos, com múltiplos painéis administrativos e autenticação | Node.js · Express · MySQL · JavaScript · REST API |
 | **[Condução SP](https://github.com/gLariii/PI---ConduSP)** — Desenvolvedor Full Stack (*Metrô de SP / IMT*) | Simulador de alto desempenho em arquitetura MVC com interface imersiva e persistência de dados para treinamento de operadores da Linha 1-Azul do Metrô de SP | Java · JavaFX · MySQL · Arquitetura MVC |
 
 ---
