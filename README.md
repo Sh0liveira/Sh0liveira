@@ -1,4 +1,4 @@
-# Olá, eu sou o Sergio Henrique! 👋
+# Sergio Henrique Oliveira! 👋
 
 Estudante de **Ciência da Computação** no Instituto Mauá de Tecnologia (conclusão em Dez/2028), com experiência prática em desenvolvimento **Full Stack**, bancos de dados e arquitetura em nuvem através de projetos acadêmicos aplicados. Busco oportunidades de estágio em Tecnologia para contribuir com iniciativas de transformação digital e eficiência operacional.
 
